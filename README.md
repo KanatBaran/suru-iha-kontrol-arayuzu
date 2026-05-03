@@ -10,7 +10,7 @@ Bu proje, Sürü İHA (İnsansız Hava Aracı) sistemleri için geliştirilmiş,
 
 Kullanıcı arayüzünün genel kullanımı ve özelliklerine ait tanıtım videosu:
 
-<video src="./images/Video.mp4" controls="controls" style="max-width: 100%;"></video>
+![Tanıtım Videosu](./images/Video.mp4)
 
 <br>
 
