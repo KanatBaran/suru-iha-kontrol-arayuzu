@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/t3-logo-TR.jpg</file>
+    <file>icon/kesifBeyaz.svg</file>
+    <file>resource.qrc</file>
+    <file>icon/alarm.svg</file>
+    <file>icon/menu-beyaz.svg</file>
+    <file>icon/drone-cikar.svg</file>
+    <file>icon/drone-ekle.svg.jpg</file>
+    <file>icon/drone-siyah.svg</file>
+    <file>icon/cikis-beyaz.svg</file>
+    <file>icon/cikisKirmizi.svg</file>
+    <file>icon/navigasyon-beyaz.svg</file>
+    <file>icon/baslangic-beyaz.svg</file>
+    <file>icon/şeffaf beyaz.png</file>
+    <file>icon/bireyEkleCikar2Beyaz.svg</file>
+    <file>icon/formasyon-beyaz.svg</file>
+    <file>icon/cikis.svg</file>
+    <file>icon/menu.svg</file>
+    <file>icon/şeffaf siyah.png</file>
+    <file>icon/AI-FORX.png</file>
+  </qresource>
+</RCC>
